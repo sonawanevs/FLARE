@@ -1,0 +1,14 @@
+Access to ANY service
+Access from ANY Source 
+Access from ANY Destination 
+Access from Network Source (also looks for a network source in a source object group)
+Access from Network Destination (also looks for a network destination in a destination object group)
+Presence of Identical Rules
+Rules to be Merged
+Access to Cleartext protocol
+Presence of Deny rules without logging enabled
+Logging of acess to sensitive services
+Presence of Reverse rules
+Presence of Disabled rules
+Non Active Rule / Down Interface
+Presence of Temporary Rules
